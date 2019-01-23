@@ -1,2 +1,2 @@
 # Worldwide
-here, mapquest, osm, waze, wikimap
+ GoogleSatTraffic, Google_Places, TomTomMap, TomTomNews, wikimap, Bing, osm
